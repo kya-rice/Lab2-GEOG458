@@ -6,7 +6,7 @@ CSV Data Files For Word Cloud Images:
 
 [Kentwood High School Data](/assets/twsearch-result(2).csv)
 
-[Bridle Trails State Park](/assets/twsearch-result(3).csv)
+[Bridle Trails State Park Data](/assets/twsearch-result(3).csv)
 
 Word Cloud Images: 
 ![wordcloud-1](/IMG/WordArt1.png "wordcloud-1.png")
